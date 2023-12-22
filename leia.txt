@@ -1,0 +1,5 @@
+este é um projeto desenvolvido para uma feira de ciêncas onde o objetivo é
+simular estados das portas logicas de acordo com um sinal dado a entrada delas.
+
+esse projeto simula as portas: NOT,AND,OR,NAND,XOR,NOR E XNOR
+
